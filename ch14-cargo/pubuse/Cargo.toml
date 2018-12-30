@@ -1,0 +1,9 @@
+[package]
+name = "lzart"
+version = "0.1.0"
+authors = ["Lzu Tao <taolzu@gmail.com>"]
+edition = "2018"
+description = "A library for modeling artistic concepts"
+license = "MIT"
+
+[dependencies]
